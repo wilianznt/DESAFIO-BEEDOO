@@ -158,13 +158,25 @@ Este repositório contém o desafio para o módulo de curso do Beedoo. O objetiv
   
   ## Planilha de Casos de Teste
   
-  [Link para a Planilha do Google Docs](URL_DA_PLANILHA)
+  [Link para a Planilha do Google]()
   
   ## Evidências de Teste
   
-  - [Evidência 1](LINK_MP4_1)
-  - [Evidência 2](LINK_MP4_2)
-  
+  - [Evidência 1](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/1#issue-2442752510)
+  - [Evidência 2](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/2#issue-2442781237)
+  - [Evidência 3](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/3#issue-2445122214)
+  - [Evidência 4](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/4#issue-2445125354)
+  - [Evidência 5](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/5#issue-2445128223)
+  - [Evidência 6](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/6#issue-2445131008)
+  - [Evidência 7](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/7#issue-2445133893)
+  - [Evidência 8](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/8#issue-2445137175)
+  - [Evidência 9](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/9#issue-2445139743)
+  - [Evidência 10](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/10#issue-2445142526)
+  - [Evidência 11](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/11#issue-2445149189)
+  - [Evidência 12](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/12#issue-2445419731)
+  - [Evidência 13](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/13#issue-2445421567)
+  - [Evidência 14](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/14#issue-2445423630)
+  - [Evidência 15](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/15#issue-2445424884)
   ## Contribuições
   
   Para contribuir com este projeto, por favor, siga as instruções e adicione suas sugestões ou correções.
