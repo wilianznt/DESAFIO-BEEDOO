@@ -158,8 +158,8 @@ Este repositório contém o desafio para o módulo de curso do Beedoo. O objetiv
   
   ## Planilha de Casos de Teste
   
-  [Link para a Planilha do Google]()
-  
+  [Link para o Google Docs](https://docs.google.com/document/d/1q5b2KqKWFFtigfrT_EpPFKitzo2oyC3alVeyq0GFIJk/edit?usp=sharing)
+  [Link para a Google Planilhas](https://docs.google.com/spreadsheets/d/187CRE161XUz98D7ZtxIcpMZF0YjO4gzBUfMdjm-Lquk/edit?usp=sharing)
   ## Evidências de Teste
   
   - [Evidência 1](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/1#issue-2442752510)
@@ -177,6 +177,9 @@ Este repositório contém o desafio para o módulo de curso do Beedoo. O objetiv
   - [Evidência 13](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/13#issue-2445421567)
   - [Evidência 14](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/14#issue-2445423630)
   - [Evidência 15](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/15#issue-2445424884)
+  - [Evidência 16](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/16#issue-2445495424)
+  - [Evidência 17](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/17#issue-2445503997)
+  - [Evidência 18](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/18#issue-2445506091)
   ## Contribuições
   
   Para contribuir com este projeto, por favor, siga as instruções e adicione suas sugestões ou correções.
