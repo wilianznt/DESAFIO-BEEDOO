@@ -160,7 +160,7 @@ Este repositório contém o desafio para o módulo de curso do Beedoo. O objetiv
   
   [Link para o Google Docs](https://docs.google.com/document/d/1q5b2KqKWFFtigfrT_EpPFKitzo2oyC3alVeyq0GFIJk/edit?usp=sharing)
   
-  [Link para a Google Planilhas](https://docs.google.com/spreadsheets/d/187CRE161XUz98D7ZtxIcpMZF0YjO4gzBUfMdjm-Lquk/edit?usp=sharing)
+  [Link para a Google Planilhas](https://docs.google.com/spreadsheets/d/187CRE161XUz98D7ZtxIcpMZF0YjO4gzBUfMdjm-Lquk/edit?usp=sharing) "Casos de teste/Dados de validação"
   ## Evidências de Teste
   
   - [Evidência 1](https://github.com/wilianznt/DESAFIO-BEEDOO/issues/1#issue-2442752510)
